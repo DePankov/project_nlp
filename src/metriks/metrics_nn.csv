@@ -1,0 +1,2 @@
+Model,accuracy,precision,recall,f1_score,roc_auc,pr_auc
+Модель 1,0.785,0.771,0.694,0.73,0.842,0.833

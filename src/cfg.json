@@ -1,0 +1,6 @@
+{
+    "data_X": "..\\data\\dataset_X.csv",
+    "data_y": "..\\data\\dataset_y.csv",
+    "metrics_folder": "metriks",
+    "images_folder": "images"
+}
